@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gios
-- 👀 I’m interested in Programming, NBA, 3D
-- 🌱 I’m currently learning Go, AWS
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me Github
 
